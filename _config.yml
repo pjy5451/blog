@@ -13,7 +13,7 @@ plugins: [jekyll-paginate]
 
 # Details for the RSS feed generator
 url: "https://pjy5451.github.io"
-author: "Your Name"
+author: "Jun"
 
 # Disqus config
 disqus-shortname: ""

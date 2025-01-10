@@ -6,13 +6,13 @@ markdown: kramdown
 highlighter: rouge
 logo: false
 paginate: 15
-baseurl: "pjy5451.github.io"
+baseurl: ""
 domain_name: "https://pjy5451.github.io"
 google_analytics: "G-KF38MERZCL"
 plugins: [jekyll-paginate]
 
 # Details for the RSS feed generator
-url: ""
+url: "https://pjy5451.github.io"
 author: "Your Name"
 
 # Disqus config
